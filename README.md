@@ -31,10 +31,10 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── main.c
 │   ├── Queue/
 │   │   └── main.c
-│   ├── BST/
+<!-- │   ├── BST/
 │   │   └── main.c
 │   └── SearchingSorting/
-│       └── main.c
+│       └── main.c -->
 │
 ├── C++/
 │   ├── SinglyLinkedList/
@@ -47,10 +47,10 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── Stack.cpp
 │   ├── Queue/
 │   │   └── Queue.cpp
-│   ├── BST/
+<!-- │   ├── BST/
 │   │   └── BST.cpp
 │   └── SearchingSorting/
-│       └── SearchingSorting.cpp
+│       └── SearchingSorting.cpp -->
 │
 ├── Java/
 │   ├── SinglyLinkedList/
@@ -63,10 +63,10 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── Stack.java
 │   ├── Queue/
 │   │   └── Queue.java
-│   ├── BST/
+<!-- │   ├── BST/
 │   │   └── BST.java
 │   └── SearchingSorting/
-│       └── SearchingSorting.java
+│       └── SearchingSorting.java -->
 │
 ├── Python/
 │   ├── SinglyLinkedList/
@@ -79,10 +79,10 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── stack.py
 │   ├── Queue/
 │   │   └── queue.py
-│   ├── BST/
+<!-- │   ├── BST/
 │   │   └── bst.py
 │   └── SearchingSorting/
-│       └── searching_sorting.py
+│       └── searching_sorting.py -->
 │
 └── JavaScript/
     ├── SinglyLinkedList/
@@ -95,10 +95,10 @@ Each language folder contains structured, menu-driven programs as well as object
     │   └── stack.js
     ├── Queue/
     │   └── queue.js
-    ├── BST/
+    <!-- ├── BST/
     │   └── bst.js
     └── SearchingSorting/
-        └── searchingSorting.js
+        └── searchingSorting.js -->
 
 ---
 
@@ -108,20 +108,20 @@ Each language folder contains structured, menu-driven programs as well as object
 3. Circular Linked List
 4. Stack
 5. Queue
-6. Binary Search Tree (BST)
-7. Searching & Sorting Algorithms
+<!-- 6. Binary Search Tree (BST)
+7. Searching & Sorting Algorithms -->
 
 ---
 
 ## 🔧 Programming Paradigms Used
 
-| Language     | Menu Driven  | OOP | Generics |
-|--------------|--------------|-----|----------|
-| C            | ✅           | ❌  | ❌        |
-| C++          | ✅           | ✅  | ✅        |
-| Java         | ✅           | ✅  | ✅        |
-| Python       | ✅           | ✅  | ❌        |
-| JavaScript   | ❌ (Planned) | ✅  | ❌        |
+| Language   | Menu Driven | OOP | Generics |
+| ---------- | ----------- | --- | -------- |
+| C          | ✅           | ❌   | ❌        |
+| C++        | ✅           | ✅   | ✅        |
+| Java       | ✅           | ✅   | ✅        |
+| Python     | ✅           | ✅   | ❌        |
+| JavaScript | ❌ (Planned) | ✅   | ❌        |
 
 ---
 
