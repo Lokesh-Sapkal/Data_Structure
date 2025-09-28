@@ -46,18 +46,14 @@ Each language folder contains structured, menu-driven programs as well as object
 
 ---
 
-## 🛠 Topics Covered
-
-<!-- - Arrays -->
-- Linked Lists (Singly, Doubly, Circular)
-- Stacks (Linked List Based)
-- Queues (Simple)
-<!-- - Trees (Binary Trees, BST, AVL) -->
-<!-- - Graphs (DFS, BFS) -->
-<!-- - Hashing -->
-<!-- - Searching & Sorting Algorithms -->
-<!-- - Recursion-based Problems -->
-- Menu-driven programs for hands-on practice
+## *Data Structures Implemented*
+1. Singly Linked List
+2. Doubly Linked List
+3. Circular Linked List
+4. Stack
+5. Queue
+6. Binary Search Tree (BST)
+7. Searching & Sorting Algorithms
 
 ---
 
