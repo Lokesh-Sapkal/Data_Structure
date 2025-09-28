@@ -21,32 +21,85 @@ Each language folder contains structured, menu-driven programs as well as object
 📁 DataStructures/
 │
 ├── C/
-│ ├── Procedural/
-│ ├── Specific/
-│ └── MenuDriven/
+│   ├── SinglyLinkedList/
+│   │   └── main.c
+│   ├── DoublyLinkedList/
+│   │   └── main.c
+│   ├── CircularLinkedList/
+│   │   └── main.c
+│   ├── Stack/
+│   │   └── main.c
+│   ├── Queue/
+│   │   └── main.c
+│   ├── BST/
+│   │   └── main.c
+│   └── SearchingSorting/
+│       └── main.c
 │
 ├── C++/
-│ ├── OOP/
-│ ├── Specific/
-│ └── Generic/
-│ └── MenuDriven/
+│   ├── SinglyLinkedList/
+│   │   └── SinglyLinkedList.cpp
+│   ├── DoublyLinkedList/
+│   │   └── DoublyLinkedList.cpp
+│   ├── CircularLinkedList/
+│   │   └── CircularLinkedList.cpp
+│   ├── Stack/
+│   │   └── Stack.cpp
+│   ├── Queue/
+│   │   └── Queue.cpp
+│   ├── BST/
+│   │   └── BST.cpp
+│   └── SearchingSorting/
+│       └── SearchingSorting.cpp
 │
 ├── Java/
-│ ├── OOP/
-│ ├── Specific/
-│ └── Generic/
-│ └── MenuDriven/
+│   ├── SinglyLinkedList/
+│   │   └── SinglyLinkedList.java
+│   ├── DoublyLinkedList/
+│   │   └── DoublyLinkedList.java
+│   ├── CircularLinkedList/
+│   │   └── CircularLinkedList.java
+│   ├── Stack/
+│   │   └── Stack.java
+│   ├── Queue/
+│   │   └── Queue.java
+│   ├── BST/
+│   │   └── BST.java
+│   └── SearchingSorting/
+│       └── SearchingSorting.java
 │
 ├── Python/
-│ └── OOP/
-│ └── MenuDriven/
+│   ├── SinglyLinkedList/
+│   │   └── singly_linked_list.py
+│   ├── DoublyLinkedList/
+│   │   └── doubly_linked_list.py
+│   ├── CircularLinkedList/
+│   │   └── circular_linked_list.py
+│   ├── Stack/
+│   │   └── stack.py
+│   ├── Queue/
+│   │   └── queue.py
+│   ├── BST/
+│   │   └── bst.py
+│   └── SearchingSorting/
+│       └── searching_sorting.py
 │
 └── JavaScript/
-└── OOP/
-<<<<<<< HEAD
+    ├── SinglyLinkedList/
+    │   └── singlyLinkedList.js
+    ├── DoublyLinkedList/
+    │   └── doublyLinkedList.js
+    ├── CircularLinkedList/
+    │   └── circularLinkedList.js
+    ├── Stack/
+    │   └── stack.js
+    ├── Queue/
+    │   └── queue.js
+    ├── BST/
+    │   └── bst.js
+    └── SearchingSorting/
+        └── searchingSorting.js
 
-=======
->>>>>>> f68d1ba037ae13bf62dc7a4bbd2570c431eaa4fa
 ---
 
 ## *Data Structures Implemented*
