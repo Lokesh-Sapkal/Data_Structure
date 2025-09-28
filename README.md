@@ -18,6 +18,7 @@ Each language folder contains structured, menu-driven programs as well as object
 
 ## 📂 Folder Structure
 
+<pre>
 📁 DataStructures/
 │
 ├── C/
@@ -83,7 +84,7 @@ Each language folder contains structured, menu-driven programs as well as object
     │   └── bst.js
     └── SearchingSorting/
         └── searchingSorting.js -->
-
+</pre>
 ---
 
 ## *Data Structures Implemented*
