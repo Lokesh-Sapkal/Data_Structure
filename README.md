@@ -18,7 +18,7 @@ Each language folder contains structured, menu-driven programs as well as object
 
 ## 📂 Folder Structure
 
-'''bash
+'''markdown
 📁 DataStructures/
 │
 ├── C/
