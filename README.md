@@ -31,10 +31,6 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── main.c
 │   ├── Queue/
 │   │   └── main.c
-<!-- │   ├── BST/
-│   │   └── main.c
-│   └── SearchingSorting/
-│       └── main.c -->
 │
 ├── C++/
 │   ├── SinglyLinkedList/
@@ -47,10 +43,6 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── Stack.cpp
 │   ├── Queue/
 │   │   └── Queue.cpp
-<!-- │   ├── BST/
-│   │   └── BST.cpp
-│   └── SearchingSorting/
-│       └── SearchingSorting.cpp -->
 │
 ├── Java/
 │   ├── SinglyLinkedList/
@@ -63,10 +55,6 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── Stack.java
 │   ├── Queue/
 │   │   └── Queue.java
-<!-- │   ├── BST/
-│   │   └── BST.java
-│   └── SearchingSorting/
-│       └── SearchingSorting.java -->
 │
 ├── Python/
 │   ├── SinglyLinkedList/
@@ -79,10 +67,6 @@ Each language folder contains structured, menu-driven programs as well as object
 │   │   └── stack.py
 │   ├── Queue/
 │   │   └── queue.py
-<!-- │   ├── BST/
-│   │   └── bst.py
-│   └── SearchingSorting/
-│       └── searching_sorting.py -->
 │
 └── JavaScript/
     ├── SinglyLinkedList/
@@ -121,7 +105,7 @@ Each language folder contains structured, menu-driven programs as well as object
 | C++        | ✅           | ✅   | ✅        |
 | Java       | ✅           | ✅   | ✅        |
 | Python     | ✅           | ✅   | ❌        |
-| JavaScript | ❌ (Planned) | ✅   | ❌        |
+| JavaScript | ❌           | ✅   | ❌        |
 
 ---
 
