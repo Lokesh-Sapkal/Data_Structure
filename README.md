@@ -18,7 +18,6 @@ Each language folder contains structured, menu-driven programs as well as object
 
 ## 📂 Folder Structure
 
-'''plaintext
 📁 DataStructures/
 │
 ├── C/
@@ -44,7 +43,6 @@ Each language folder contains structured, menu-driven programs as well as object
 │
 └── JavaScript/
 └── OOP/
-'''
 ---
 
 ## 🛠 Topics Covered
